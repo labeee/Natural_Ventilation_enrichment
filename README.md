@@ -17,4 +17,4 @@ Install Blender version 4.3.1
 
 Install the Bonsai add-on and the custom add-on [Natural_Ventilation_AddOn]
 
-Follow the instructions provided in the paper.
+Follow the instructions provided in the paper: https://doi.org/10.1016/j.enbuild.2025.116295
