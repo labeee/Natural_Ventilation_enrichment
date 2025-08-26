@@ -1,4 +1,4 @@
-IFC Model Enrichment for Natural Ventilation – IDS Specification
+IFC Model Enrichment for Natural Ventilation 
 This repository contains the add-on developed for enriching IFC models with natural ventilation properties based on the AirflowNetwork system.
 
 Requirements
